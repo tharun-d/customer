@@ -1,0 +1,3 @@
+# customer
+
+Follows Hexagonal architecture 
